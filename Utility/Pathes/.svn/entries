@@ -1,0 +1,54 @@
+8
+
+dir
+131
+http://oolongengine.googlecode.com/svn/trunk/Oolong%20Engine2/Utility/Pathes
+http://oolongengine.googlecode.com/svn
+
+
+
+2008-07-10T16:06:23.937849Z
+65
+wolfgang.engel
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7fa7efda-f44a-0410-a86a-c1fddb4bcab7
+
+ResourcePath.h
+file
+
+
+
+
+2009-03-11T14:54:49.000000Z
+73bbd46c438f9577332f59830d2d93da
+2008-07-10T16:06:23.937849Z
+65
+wolfgang.engel
+has-props
+
+ResourcePath.mm
+file
+
+
+
+
+2009-03-11T14:54:49.000000Z
+5db6ce4ce196a9a977be7df137232a10
+2008-07-10T16:06:23.937849Z
+65
+wolfgang.engel
+has-props
+

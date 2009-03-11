@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/115/trunk/Oolong%20Engine2/Math
+END
+Transform.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/100/trunk/Oolong%20Engine2/Math/Transform.h
+END
+Random.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/74/trunk/Oolong%20Engine2/Math/Random.cpp
+END
+Vector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/115/trunk/Oolong%20Engine2/Math/Vector.cpp
+END
+Endian.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/115/trunk/Oolong%20Engine2/Math/Endian.h
+END
+Matrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/112/trunk/Oolong%20Engine2/Math/Matrix.cpp
+END
+Random.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/104/trunk/Oolong%20Engine2/Math/Random.h
+END
+Vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/112/trunk/Oolong%20Engine2/Math/Vector.h
+END
+Matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/112/trunk/Oolong%20Engine2/Math/Matrix.h
+END
+Quaternion.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/100/trunk/Oolong%20Engine2/Math/Quaternion.h
+END
+Transform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/100/trunk/Oolong%20Engine2/Math/Transform.cpp
+END

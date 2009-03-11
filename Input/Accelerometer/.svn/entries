@@ -1,0 +1,54 @@
+8
+
+dir
+131
+http://oolongengine.googlecode.com/svn/trunk/Oolong%20Engine2/Input/Accelerometer
+http://oolongengine.googlecode.com/svn
+
+
+
+2008-05-03T15:34:04.763556Z
+36
+wolfgang.engel
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7fa7efda-f44a-0410-a86a-c1fddb4bcab7
+
+Accelerometer.h
+file
+
+
+
+
+2009-03-11T14:54:46.000000Z
+6f5be0a21184c8fbf41f1277ec86f5d1
+2008-05-03T15:34:04.763556Z
+36
+wolfgang.engel
+has-props
+
+Accelerometer.m
+file
+
+
+
+
+2009-03-11T14:54:46.000000Z
+0e1ae94f86984db974dd17f3f8e38aa7
+2008-05-03T15:34:04.763556Z
+36
+wolfgang.engel
+has-props
+

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/131/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics/Dynamics
+END
+Bullet-C-API.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics/Dynamics/Bullet-C-API.cpp
+END
+btSimpleDynamicsWorld.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics/Dynamics/btSimpleDynamicsWorld.cpp
+END
+btContinuousDynamicsWorld.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics/Dynamics/btContinuousDynamicsWorld.h
+END
+btRigidBody.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics/Dynamics/btRigidBody.cpp
+END
+btSimpleDynamicsWorld.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics/Dynamics/btSimpleDynamicsWorld.h
+END
+btRigidBody.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics/Dynamics/btRigidBody.h
+END
+btDiscreteDynamicsWorld.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics/Dynamics/btDiscreteDynamicsWorld.cpp
+END
+btActionInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/131/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics/Dynamics/btActionInterface.h
+END
+btDynamicsWorld.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics/Dynamics/btDynamicsWorld.h
+END
+btContinuousDynamicsWorld.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics/Dynamics/btContinuousDynamicsWorld.cpp
+END
+btDiscreteDynamicsWorld.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics/Dynamics/btDiscreteDynamicsWorld.h
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/104/trunk/Oolong%20Engine2/Examples/Networking/NetworkSkeleton
+END
+Delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/89/trunk/Oolong%20Engine2/Examples/Networking/NetworkSkeleton/Delegate.h
+END
+Delegate.mm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/89/trunk/Oolong%20Engine2/Examples/Networking/NetworkSkeleton/Delegate.mm
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/97/trunk/Oolong%20Engine2/Examples/Networking/NetworkSkeleton/Info.plist
+END
+Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/83/trunk/Oolong%20Engine2/Examples/Networking/NetworkSkeleton/Prefix.pch
+END
+Default.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/83/trunk/Oolong%20Engine2/Examples/Networking/NetworkSkeleton/Default.png
+END
+Application.mm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/100/trunk/Oolong%20Engine2/Examples/Networking/NetworkSkeleton/Application.mm
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/83/trunk/Oolong%20Engine2/Examples/Networking/NetworkSkeleton/ReadMe.txt
+END
+icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/83/trunk/Oolong%20Engine2/Examples/Networking/NetworkSkeleton/icon.png
+END

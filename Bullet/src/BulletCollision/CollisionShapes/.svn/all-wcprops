@@ -1,0 +1,419 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes
+END
+btConvexHullShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btConvexHullShape.cpp
+END
+btSphereShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btSphereShape.h
+END
+btScaledBvhTriangleMeshShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btScaledBvhTriangleMeshShape.cpp
+END
+btEmptyShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btEmptyShape.cpp
+END
+btConvexShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btConvexShape.cpp
+END
+btHeightfieldTerrainShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btHeightfieldTerrainShape.h
+END
+btMultiSphereShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btMultiSphereShape.h
+END
+btTriangleMesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btTriangleMesh.h
+END
+btStaticPlaneShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btStaticPlaneShape.h
+END
+btConcaveShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btConcaveShape.cpp
+END
+btTriangleIndexVertexArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btTriangleIndexVertexArray.h
+END
+btUniformScalingShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btUniformScalingShape.cpp
+END
+btMultimaterialTriangleMeshShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btMultimaterialTriangleMeshShape.h
+END
+btMaterial.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btMaterial.h
+END
+btOptimizedBvh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btOptimizedBvh.cpp
+END
+btSphereShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btSphereShape.cpp
+END
+btTriangleMeshShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btTriangleMeshShape.h
+END
+btConeShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btConeShape.h
+END
+btConvexHullShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/94/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btConvexHullShape.h
+END
+btTriangleIndexVertexMaterialArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btTriangleIndexVertexMaterialArray.h
+END
+btConvexInternalShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btConvexInternalShape.cpp
+END
+btTriangleCallback.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/4/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btTriangleCallback.cpp
+END
+btConvexPointCloudShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btConvexPointCloudShape.cpp
+END
+btShapeHull.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btShapeHull.h
+END
+btCylinderShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btCylinderShape.cpp
+END
+btTriangleShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btTriangleShape.h
+END
+btMultimaterialTriangleMeshShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btMultimaterialTriangleMeshShape.cpp
+END
+btTetrahedronShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btTetrahedronShape.cpp
+END
+btTriangleMeshShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btTriangleMeshShape.cpp
+END
+btTriangleBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btTriangleBuffer.h
+END
+btConeShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btConeShape.cpp
+END
+btBvhTriangleMeshShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btBvhTriangleMeshShape.h
+END
+btTriangleIndexVertexMaterialArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btTriangleIndexVertexMaterialArray.cpp
+END
+btOptimizedBvh.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/77/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btOptimizedBvh.h
+END
+btCollisionShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btCollisionShape.cpp
+END
+btBoxShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btBoxShape.h
+END
+btCapsuleShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btCapsuleShape.h
+END
+btShapeHull.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btShapeHull.cpp
+END
+btConvexInternalShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btConvexInternalShape.h
+END
+btStridingMeshInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btStridingMeshInterface.h
+END
+btConvexTriangleMeshShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btConvexTriangleMeshShape.cpp
+END
+btMinkowskiSumShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btMinkowskiSumShape.h
+END
+btTriangleCallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/77/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btTriangleCallback.h
+END
+btConvexPointCloudShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btConvexPointCloudShape.h
+END
+btCollisionMargin.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btCollisionMargin.h
+END
+btCylinderShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btCylinderShape.h
+END
+btTriangleBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btTriangleBuffer.cpp
+END
+btBvhTriangleMeshShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btBvhTriangleMeshShape.cpp
+END
+btTetrahedronShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btTetrahedronShape.h
+END
+btBoxShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btBoxShape.cpp
+END
+btCompoundShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btCompoundShape.h
+END
+btPolyhedralConvexShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btPolyhedralConvexShape.h
+END
+btCapsuleShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btCapsuleShape.cpp
+END
+btStridingMeshInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/77/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btStridingMeshInterface.cpp
+END
+btCollisionShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btCollisionShape.h
+END
+btMinkowskiSumShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btMinkowskiSumShape.cpp
+END
+btTriangleMesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btTriangleMesh.cpp
+END
+btMultiSphereShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btMultiSphereShape.cpp
+END
+btHeightfieldTerrainShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btHeightfieldTerrainShape.cpp
+END
+btScaledBvhTriangleMeshShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btScaledBvhTriangleMeshShape.h
+END
+btEmptyShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btEmptyShape.h
+END
+btStaticPlaneShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btStaticPlaneShape.cpp
+END
+btConvexShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btConvexShape.h
+END
+btTriangleIndexVertexArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btTriangleIndexVertexArray.cpp
+END
+btConvexTriangleMeshShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btConvexTriangleMeshShape.h
+END
+btConcaveShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btConcaveShape.h
+END
+btCompoundShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btCompoundShape.cpp
+END
+btUniformScalingShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btUniformScalingShape.h
+END
+btPolyhedralConvexShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionShapes/btPolyhedralConvexShape.cpp
+END

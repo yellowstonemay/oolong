@@ -1,0 +1,76 @@
+8
+
+dir
+131
+http://oolongengine.googlecode.com/svn/trunk/Oolong%20Engine2/Bullet/src
+http://oolongengine.googlecode.com/svn
+
+
+
+2009-03-07T06:50:10.450572Z
+131
+erwin.coumans
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7fa7efda-f44a-0410-a86a-c1fddb4bcab7
+
+BulletDynamics
+dir
+
+BulletSoftBody
+dir
+
+BulletCollision
+dir
+
+LinearMath
+dir
+
+btBulletDynamicsCommon.h
+file
+
+
+
+
+2009-03-11T14:55:02.000000Z
+3afd919095cd21073ce2dc108875d2f9
+2008-09-09T08:01:29.462950Z
+77
+erwin.coumans
+
+Bullet-C-Api.h
+file
+
+
+
+
+2009-03-11T14:55:02.000000Z
+154ebb5d9f3280ac121b85b7fda91bf9
+2008-11-11T00:26:25.124011Z
+91
+erwin.coumans
+
+btBulletCollisionCommon.h
+file
+
+
+
+
+2009-03-11T14:55:02.000000Z
+38244ea88eaec45be89bfbffb8377e9f
+2009-03-04T15:47:46.711397Z
+130
+erwin.coumans
+

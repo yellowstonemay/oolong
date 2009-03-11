@@ -1,0 +1,58 @@
+8
+
+dir
+131
+http://oolongengine.googlecode.com/svn/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples
+http://oolongengine.googlecode.com/svn
+
+
+
+2009-02-21T01:56:08.466695Z
+128
+wolfgang.engel
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7fa7efda-f44a-0410-a86a-c1fddb4bcab7
+
+01 POD Geometry
+dir
+
+08 Clip Planes
+dir
+
+09 Transparency
+dir
+
+02 Optimized Mesh
+dir
+
+10 MatrixPalette
+dir
+
+07 Skybox
+dir
+
+04 Morphing
+dir
+
+05 Eight Point Lights
+dir
+
+03 Shadows
+dir
+
+06 Particle System
+dir
+

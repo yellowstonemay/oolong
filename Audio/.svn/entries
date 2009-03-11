@@ -1,0 +1,54 @@
+8
+
+dir
+131
+http://oolongengine.googlecode.com/svn/trunk/Oolong%20Engine2/Audio
+http://oolongengine.googlecode.com/svn
+
+
+
+2008-07-26T06:16:21.837485Z
+76
+wolfgang.engel
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7fa7efda-f44a-0410-a86a-c1fddb4bcab7
+
+SoundEngine.cpp
+file
+
+
+
+
+2009-03-11T14:54:46.000000Z
+d7ee69a54e6199a26c5b67950a275585
+2008-07-26T06:16:21.837485Z
+76
+wolfgang.engel
+has-props
+
+SoundEngine.h
+file
+
+
+
+
+2009-03-11T14:54:46.000000Z
+a24c0fe9c5a6cc47a522e91abb018e19
+2008-07-10T16:06:23.937849Z
+65
+wolfgang.engel
+has-props
+

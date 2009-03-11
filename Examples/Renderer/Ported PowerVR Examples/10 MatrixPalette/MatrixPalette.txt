@@ -1,0 +1,13 @@
+
+Demo title: 		Matrix Palette
+
+Demonstrates: 		Using Matrix Palettes to animate a skinned character.
+
+Short Description:	Using Matrix Palettes to animate a skinned character.
+
+Full Description:	
+Shows the loadings of a 3D scene from a pod file and then drawing and animating the skinned character.
+
+VGP: 			Not Required
+Polygon Count: 		?
+Vertex Count: 		?

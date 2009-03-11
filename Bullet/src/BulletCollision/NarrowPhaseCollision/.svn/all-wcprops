@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/NarrowPhaseCollision
+END
+btManifoldPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/NarrowPhaseCollision/btManifoldPoint.h
+END
+btMinkowskiPenetrationDepthSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/NarrowPhaseCollision/btMinkowskiPenetrationDepthSolver.h
+END
+btGjkConvexCast.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/77/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/NarrowPhaseCollision/btGjkConvexCast.cpp
+END
+btPersistentManifold.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/NarrowPhaseCollision/btPersistentManifold.cpp
+END
+btContinuousConvexCollision.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/4/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/NarrowPhaseCollision/btContinuousConvexCollision.h
+END
+btConvexCast.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/NarrowPhaseCollision/btConvexCast.cpp
+END
+btGjkConvexCast.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/4/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/NarrowPhaseCollision/btGjkConvexCast.h
+END
+btPersistentManifold.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/NarrowPhaseCollision/btPersistentManifold.h
+END
+btGjkPairDetector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/NarrowPhaseCollision/btGjkPairDetector.cpp
+END
+btConvexCast.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/77/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/NarrowPhaseCollision/btConvexCast.h
+END
+btRaycastCallback.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/NarrowPhaseCollision/btRaycastCallback.cpp
+END
+btGjkEpa2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/NarrowPhaseCollision/btGjkEpa2.cpp
+END
+btGjkPairDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/NarrowPhaseCollision/btGjkPairDetector.h
+END
+btVoronoiSimplexSolver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/NarrowPhaseCollision/btVoronoiSimplexSolver.cpp
+END
+btRaycastCallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/NarrowPhaseCollision/btRaycastCallback.h
+END
+btGjkEpa2.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/NarrowPhaseCollision/btGjkEpa2.h
+END
+btSubSimplexConvexCast.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/77/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/NarrowPhaseCollision/btSubSimplexConvexCast.cpp
+END
+btGjkEpaPenetrationDepthSolver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/NarrowPhaseCollision/btGjkEpaPenetrationDepthSolver.cpp
+END
+btVoronoiSimplexSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/NarrowPhaseCollision/btVoronoiSimplexSolver.h
+END
+btDiscreteCollisionDetectorInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/77/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/NarrowPhaseCollision/btDiscreteCollisionDetectorInterface.h
+END
+btSubSimplexConvexCast.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/4/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/NarrowPhaseCollision/btSubSimplexConvexCast.h
+END
+btGjkEpaPenetrationDepthSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/NarrowPhaseCollision/btGjkEpaPenetrationDepthSolver.h
+END
+btConvexPenetrationDepthSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/NarrowPhaseCollision/btConvexPenetrationDepthSolver.h
+END
+btGjkEpa.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/77/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/NarrowPhaseCollision/btGjkEpa.cpp
+END
+btSimplexSolverInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/NarrowPhaseCollision/btSimplexSolverInterface.h
+END
+btMinkowskiPenetrationDepthSolver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/NarrowPhaseCollision/btMinkowskiPenetrationDepthSolver.cpp
+END
+btContinuousConvexCollision.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/NarrowPhaseCollision/btContinuousConvexCollision.cpp
+END
+btPointCollector.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/4/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/NarrowPhaseCollision/btPointCollector.h
+END
+btGjkEpa.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/77/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/NarrowPhaseCollision/btGjkEpa.h
+END

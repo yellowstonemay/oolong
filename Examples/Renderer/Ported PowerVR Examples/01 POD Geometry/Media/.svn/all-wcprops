@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/119/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/01%20POD%20Geometry/Media
+END
+tex_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/58/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/01%20POD%20Geometry/Media/tex_base.h
+END
+tex_arm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/119/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/01%20POD%20Geometry/Media/tex_arm.cpp
+END
+tex_base.pvr
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/119/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/01%20POD%20Geometry/Media/tex_base.pvr
+END
+scene_fixed.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/58/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/01%20POD%20Geometry/Media/scene_fixed.h
+END
+tex_arm.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/58/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/01%20POD%20Geometry/Media/tex_arm.h
+END
+tex_arm.pvr
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/119/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/01%20POD%20Geometry/Media/tex_arm.pvr
+END
+scene_float.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/58/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/01%20POD%20Geometry/Media/scene_float.h
+END
+IntroducingPOD_fixed.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/119/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/01%20POD%20Geometry/Media/IntroducingPOD_fixed.cpp
+END
+IntroducingPOD_fixed.pod
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/119/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/01%20POD%20Geometry/Media/IntroducingPOD_fixed.pod
+END
+tex_base.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/119/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/01%20POD%20Geometry/Media/tex_base.cpp
+END
+IntroducingPOD_float.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/119/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/01%20POD%20Geometry/Media/IntroducingPOD_float.cpp
+END
+IntroducingPOD_float.pod
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/119/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/01%20POD%20Geometry/Media/IntroducingPOD_float.pod
+END

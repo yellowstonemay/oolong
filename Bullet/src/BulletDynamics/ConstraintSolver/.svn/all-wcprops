@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics/ConstraintSolver
+END
+btSequentialImpulseConstraintSolver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics/ConstraintSolver/btSequentialImpulseConstraintSolver.cpp
+END
+btSolve2LinearConstraint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/4/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics/ConstraintSolver/btSolve2LinearConstraint.cpp
+END
+btSequentialImpulseConstraintSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics/ConstraintSolver/btSequentialImpulseConstraintSolver.h
+END
+btSolve2LinearConstraint.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/4/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics/ConstraintSolver/btSolve2LinearConstraint.h
+END
+btSolverConstraint.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics/ConstraintSolver/btSolverConstraint.h
+END
+btConeTwistConstraint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics/ConstraintSolver/btConeTwistConstraint.cpp
+END
+btConstraintSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/77/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics/ConstraintSolver/btConstraintSolver.h
+END
+btSliderConstraint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics/ConstraintSolver/btSliderConstraint.cpp
+END
+btConeTwistConstraint.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics/ConstraintSolver/btConeTwistConstraint.h
+END
+btPoint2PointConstraint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics/ConstraintSolver/btPoint2PointConstraint.cpp
+END
+btTypedConstraint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics/ConstraintSolver/btTypedConstraint.cpp
+END
+btSliderConstraint.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics/ConstraintSolver/btSliderConstraint.h
+END
+btJacobianEntry.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics/ConstraintSolver/btJacobianEntry.h
+END
+btSolverBody.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics/ConstraintSolver/btSolverBody.h
+END
+btHingeConstraint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics/ConstraintSolver/btHingeConstraint.cpp
+END
+btTypedConstraint.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics/ConstraintSolver/btTypedConstraint.h
+END
+btPoint2PointConstraint.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics/ConstraintSolver/btPoint2PointConstraint.h
+END
+btGeneric6DofConstraint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics/ConstraintSolver/btGeneric6DofConstraint.cpp
+END
+btContactConstraint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics/ConstraintSolver/btContactConstraint.cpp
+END
+btHingeConstraint.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics/ConstraintSolver/btHingeConstraint.h
+END
+btGeneric6DofConstraint.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics/ConstraintSolver/btGeneric6DofConstraint.h
+END
+btContactConstraint.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics/ConstraintSolver/btContactConstraint.h
+END
+btContactSolverInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics/ConstraintSolver/btContactSolverInfo.h
+END

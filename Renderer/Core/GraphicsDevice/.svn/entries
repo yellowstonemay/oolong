@@ -1,0 +1,70 @@
+8
+
+dir
+131
+http://oolongengine.googlecode.com/svn/trunk/Oolong%20Engine2/Renderer/Core/GraphicsDevice
+http://oolongengine.googlecode.com/svn
+
+
+
+2008-12-26T18:16:56.673017Z
+113
+wolfgang.engel
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7fa7efda-f44a-0410-a86a-c1fddb4bcab7
+
+OpenGLESExt.h
+file
+
+
+
+
+2009-03-11T14:54:50.000000Z
+63ecb7fb345cbd708220e661b184a31a
+2008-06-29T17:37:14.001035Z
+60
+wolfgang.engel
+has-props
+
+Texture.h
+file
+
+
+
+
+2009-03-11T14:54:50.000000Z
+d1898adabb158b16728cfcaf23c2a302
+2008-11-28T23:21:23.528657Z
+107
+wolfgang.engel
+has-props
+
+Texture.mm
+file
+
+
+
+
+2009-03-11T14:54:50.000000Z
+dd29b2300f41f4c07ec8740c05be36ec
+2008-12-26T18:16:56.673017Z
+113
+wolfgang.engel
+has-props
+
+OS2x
+dir
+

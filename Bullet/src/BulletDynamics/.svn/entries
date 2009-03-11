@@ -1,0 +1,40 @@
+8
+
+dir
+131
+http://oolongengine.googlecode.com/svn/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics
+http://oolongengine.googlecode.com/svn
+
+
+
+2009-03-07T06:50:10.450572Z
+131
+erwin.coumans
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7fa7efda-f44a-0410-a86a-c1fddb4bcab7
+
+ConstraintSolver
+dir
+
+Vehicle
+dir
+
+Dynamics
+dir
+
+Character
+dir
+

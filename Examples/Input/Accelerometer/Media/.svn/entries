@@ -1,0 +1,41 @@
+8
+
+dir
+131
+http://oolongengine.googlecode.com/svn/trunk/Oolong%20Engine2/Examples/Input/Accelerometer/Media
+http://oolongengine.googlecode.com/svn
+
+
+
+2008-04-27T02:17:49.146109Z
+23
+wolfgang.engel
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7fa7efda-f44a-0410-a86a-c1fddb4bcab7
+
+teapot.h
+file
+
+
+
+
+2009-03-11T14:55:03.000000Z
+ebad9eb9b921a8d54d00eafcfa908817
+2008-04-27T02:17:49.146109Z
+23
+wolfgang.engel
+has-props
+

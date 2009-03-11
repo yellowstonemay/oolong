@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/113/trunk/Oolong%20Engine2/Renderer/Core/GraphicsDevice
+END
+OpenGLESExt.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/60/trunk/Oolong%20Engine2/Renderer/Core/GraphicsDevice/OpenGLESExt.h
+END
+Texture.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/107/trunk/Oolong%20Engine2/Renderer/Core/GraphicsDevice/Texture.h
+END
+Texture.mm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/113/trunk/Oolong%20Engine2/Renderer/Core/GraphicsDevice/Texture.mm
+END

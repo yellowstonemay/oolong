@@ -1,0 +1,41 @@
+8
+
+dir
+131
+http://oolongengine.googlecode.com/svn/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/01%20POD%20Geometry/POD.xcodeproj
+http://oolongengine.googlecode.com/svn
+
+
+
+2008-12-26T18:27:48.131361Z
+119
+wolfgang.engel
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7fa7efda-f44a-0410-a86a-c1fddb4bcab7
+
+project.pbxproj
+file
+
+
+
+
+2009-03-11T14:55:08.000000Z
+4ec2ebf45eebc49be75e06c6f58b65f7
+2008-12-26T18:27:48.131361Z
+119
+wolfgang.engel
+has-props
+

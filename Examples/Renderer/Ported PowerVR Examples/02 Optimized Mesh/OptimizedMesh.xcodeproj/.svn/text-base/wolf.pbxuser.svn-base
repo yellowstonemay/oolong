@@ -1,0 +1,171 @@
+// !$*UTF8*$!
+{
+	1BF3A1350DA68E6200C48976 /* ReadMe.txt */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1101, 628}}";
+			sepNavSelRange = "{553, 0}";
+			sepNavVisRange = "{0, 590}";
+			sepNavWindowFrame = "{{38, 96}, {1160, 756}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* OptimizedMesh */ = {
+		activeExec = 0;
+		executables = (
+			79235BF70DAD051C00F918F8 /* OptimizedMesh */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 79235BF70DAD051C00F918F8 /* OptimizedMesh */;
+		activeSDKPreference = iphoneos2.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* OptimizedMesh */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* OptimizedMesh */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 79235BFD0DAD053A00F918F8 /* Code sense */;
+		executables = (
+			79235BF70DAD051C00F918F8 /* OptimizedMesh */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					836,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 251833482;
+			PBXWorkspaceStateSaveDate = 251833482;
+		};
+		perUserProjectItems = {
+			79832B060F02B24A000F58D6 /* PBXTextBookmark */ = 79832B060F02B24A000F58D6 /* PBXTextBookmark */;
+			79832B070F02B24A000F58D6 /* PBXTextBookmark */ = 79832B070F02B24A000F58D6 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 79235BFC0DAD053A00F918F8 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	7914067B0DBAD8D100C9A379 /* Delegate.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {762, 1120}}";
+			sepNavSelRange = "{226, 0}";
+			sepNavVisRange = "{0, 827}";
+			sepNavWindowFrame = "{{368, 97}, {821, 781}}";
+		};
+	};
+	791F49760E17558F00E927FE /* VertexLookup.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1158, 8890}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{14492, 894}";
+			sepNavWindowFrame = "{{84, 168}, {894, 642}}";
+		};
+	};
+	79235BF70DAD051C00F918F8 /* OptimizedMesh */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = OptimizedMesh;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	79235BFC0DAD053A00F918F8 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryName = "Oolong Engine 2";
+		};
+	};
+	79235BFD0DAD053A00F918F8 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	79235D4F0DAD2BEA00F918F8 /* Application.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1470, 7742}}";
+			sepNavSelRange = "{13525, 0}";
+			sepNavVisRange = "{13026, 849}";
+			sepNavWindowFrame = "{{84, 168}, {894, 642}}";
+		};
+	};
+	79832B060F02B24A000F58D6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "error: 'm_sModel' was not declared in this scope";
+		fRef = 79235D4F0DAD2BEA00F918F8 /* Application.mm */;
+		rLen = 1;
+		rLoc = 497;
+		rType = 1;
+	};
+	79832B070F02B24A000F58D6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 79235D4F0DAD2BEA00F918F8 /* Application.mm */;
+		name = "Application.mm: 501";
+		rLen = 0;
+		rLoc = 13525;
+		rType = 0;
+		vrLen = 849;
+		vrLoc = 13026;
+	};
+}

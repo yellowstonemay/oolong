@@ -1,0 +1,55 @@
+8
+
+dir
+131
+http://oolongengine.googlecode.com/svn/trunk/Oolong%20Engine2/Bullet
+http://oolongengine.googlecode.com/svn
+
+
+
+2009-03-07T06:50:10.450572Z
+131
+erwin.coumans
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7fa7efda-f44a-0410-a86a-c1fddb4bcab7
+
+LICENSE
+file
+
+
+
+
+2009-03-11T14:55:02.000000Z
+bb58de59f73b8ad4bc7e76cfb9296cec
+2008-11-11T00:26:25.124011Z
+91
+erwin.coumans
+
+VERSION
+file
+
+
+
+
+2009-03-11T14:55:02.000000Z
+879cc13f7b0a0776eb09eb28fb7ac941
+2008-11-11T00:26:25.124011Z
+91
+erwin.coumans
+
+src
+dir
+

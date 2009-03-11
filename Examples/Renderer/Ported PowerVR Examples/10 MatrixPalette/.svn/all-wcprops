@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/124/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/10%20MatrixPalette
+END
+Delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/89/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/10%20MatrixPalette/Delegate.h
+END
+MatrixPalette.txt
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/80/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/10%20MatrixPalette/MatrixPalette.txt
+END
+Delegate.mm
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/89/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/10%20MatrixPalette/Delegate.mm
+END
+mallet.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/80/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/10%20MatrixPalette/mallet.h
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/97/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/10%20MatrixPalette/Info.plist
+END
+MatrixPalette.png
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/80/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/10%20MatrixPalette/MatrixPalette.png
+END
+Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/80/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/10%20MatrixPalette/Prefix.pch
+END
+model_float.pod
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/80/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/10%20MatrixPalette/model_float.pod
+END
+Default.png
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/80/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/10%20MatrixPalette/Default.png
+END
+Application.mm
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/124/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/10%20MatrixPalette/Application.mm
+END
+icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/80/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/10%20MatrixPalette/icon.png
+END

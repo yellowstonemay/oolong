@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics/Character
+END
+btKinematicCharacterController.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics/Character/btKinematicCharacterController.h
+END
+btKinematicCharacterController.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics/Character/btKinematicCharacterController.cpp
+END
+btCharacterControllerInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletDynamics/Character/btCharacterControllerInterface.h
+END

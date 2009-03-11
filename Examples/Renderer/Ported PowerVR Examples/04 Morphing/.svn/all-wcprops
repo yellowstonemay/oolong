@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/125/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/04%20Morphing
+END
+Delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/89/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/04%20Morphing/Delegate.h
+END
+Delegate.mm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/89/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/04%20Morphing/Delegate.mm
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/97/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/04%20Morphing/Info.plist
+END
+Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/58/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/04%20Morphing/Prefix.pch
+END
+Default.png
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/58/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/04%20Morphing/Default.png
+END
+Application.mm
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/123/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/04%20Morphing/Application.mm
+END
+icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/58/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/04%20Morphing/icon.png
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/58/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/04%20Morphing/ReadMe.txt
+END

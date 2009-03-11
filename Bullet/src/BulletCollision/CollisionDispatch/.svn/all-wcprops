@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch
+END
+btGhostObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/btGhostObject.cpp
+END
+btCompoundCollisionAlgorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/btCompoundCollisionAlgorithm.h
+END
+btSimulationIslandManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/btSimulationIslandManager.h
+END
+btSphereSphereCollisionAlgorithm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/btSphereSphereCollisionAlgorithm.cpp
+END
+SphereTriangleDetector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/SphereTriangleDetector.cpp
+END
+btActivatingCollisionAlgorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/btActivatingCollisionAlgorithm.h
+END
+btConvexConcaveCollisionAlgorithm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/96/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/btConvexConcaveCollisionAlgorithm.cpp
+END
+btEmptyCollisionAlgorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/77/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/btEmptyCollisionAlgorithm.h
+END
+btCollisionObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/btCollisionObject.h
+END
+btSphereBoxCollisionAlgorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/btSphereBoxCollisionAlgorithm.h
+END
+btDefaultCollisionConfiguration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/btDefaultCollisionConfiguration.cpp
+END
+btBoxBoxCollisionAlgorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/btBoxBoxCollisionAlgorithm.h
+END
+btConvexConvexAlgorithm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/btConvexConvexAlgorithm.cpp
+END
+btManifoldResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/btManifoldResult.h
+END
+btUnionFind.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/btUnionFind.h
+END
+btSphereTriangleCollisionAlgorithm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/btSphereTriangleCollisionAlgorithm.cpp
+END
+btBoxBoxDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/btBoxBoxDetector.h
+END
+btCollisionCreateFunc.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h
+END
+btCollisionDispatcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/btCollisionDispatcher.cpp
+END
+btCompoundCollisionAlgorithm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/btCompoundCollisionAlgorithm.cpp
+END
+btCollisionWorld.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/btCollisionWorld.h
+END
+btConvexPlaneCollisionAlgorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/btConvexPlaneCollisionAlgorithm.h
+END
+btSimulationIslandManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/btSimulationIslandManager.cpp
+END
+btActivatingCollisionAlgorithm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/btActivatingCollisionAlgorithm.cpp
+END
+btGhostObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/btGhostObject.h
+END
+btEmptyCollisionAlgorithm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/4/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/btEmptyCollisionAlgorithm.cpp
+END
+btSphereBoxCollisionAlgorithm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/btSphereBoxCollisionAlgorithm.cpp
+END
+btCollisionObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/btCollisionObject.cpp
+END
+btBoxBoxCollisionAlgorithm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/btBoxBoxCollisionAlgorithm.cpp
+END
+SphereTriangleDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/SphereTriangleDetector.h
+END
+btSphereSphereCollisionAlgorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/btSphereSphereCollisionAlgorithm.h
+END
+btCollisionConfiguration.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/btCollisionConfiguration.h
+END
+btManifoldResult.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/btManifoldResult.cpp
+END
+btConvexConcaveCollisionAlgorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/btConvexConcaveCollisionAlgorithm.h
+END
+btUnionFind.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/btUnionFind.cpp
+END
+btBoxBoxDetector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/btBoxBoxDetector.cpp
+END
+btDefaultCollisionConfiguration.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/btDefaultCollisionConfiguration.h
+END
+btConvexConvexAlgorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/btConvexConvexAlgorithm.h
+END
+btCollisionWorld.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/btCollisionWorld.cpp
+END
+btSphereTriangleCollisionAlgorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/btSphereTriangleCollisionAlgorithm.h
+END
+btConvexPlaneCollisionAlgorithm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/btConvexPlaneCollisionAlgorithm.cpp
+END
+btCollisionDispatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/77/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/CollisionDispatch/btCollisionDispatcher.h
+END

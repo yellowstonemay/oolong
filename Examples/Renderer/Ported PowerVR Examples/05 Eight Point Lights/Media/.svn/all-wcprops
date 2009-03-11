@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/124/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/05%20Eight%20Point%20Lights/Media
+END
+GRANITE.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/58/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/05%20Eight%20Point%20Lights/Media/GRANITE.h
+END
+content.mak
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/124/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/05%20Eight%20Point%20Lights/Media/content.mak
+END
+LightingScene_fixed.pod
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/124/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/05%20Eight%20Point%20Lights/Media/LightingScene_fixed.pod
+END
+OGLESLighting.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/58/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/05%20Eight%20Point%20Lights/Media/OGLESLighting.h
+END
+Stone.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/124/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/05%20Eight%20Point%20Lights/Media/Stone.bmp
+END
+LightTex.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/124/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/05%20Eight%20Point%20Lights/Media/LightTex.bmp
+END
+Lighting.max
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/124/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/05%20Eight%20Point%20Lights/Media/Lighting.max
+END
+LightingScene_float.pod
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/124/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/05%20Eight%20Point%20Lights/Media/LightingScene_float.pod
+END
+SimpleGeoTest.H
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/58/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/05%20Eight%20Point%20Lights/Media/SimpleGeoTest.H
+END
+LightTex.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/58/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/05%20Eight%20Point%20Lights/Media/LightTex.h
+END
+Stone.pvr
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/124/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/05%20Eight%20Point%20Lights/Media/Stone.pvr
+END
+LightTex.pvr
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/124/trunk/Oolong%20Engine2/Examples/Renderer/Ported%20PowerVR%20Examples/05%20Eight%20Point%20Lights/Media/LightTex.pvr
+END

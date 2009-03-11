@@ -1,0 +1,248 @@
+// !$*UTF8*$!
+{
+	1BF3A1350DA68E6200C48976 /* ReadMe.txt */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1101, 628}}";
+			sepNavSelRange = "{553, 0}";
+			sepNavVisRange = "{0, 590}";
+			sepNavWindowFrame = "{{38, 96}, {1160, 756}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Skeleton */ = {
+		activeExec = 0;
+		executables = (
+			79235BF70DAD051C00F918F8 /* Skeleton */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 79235BF70DAD051C00F918F8 /* Skeleton */;
+		activeSDKPreference = iphoneos2.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Skeleton */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Skeleton */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 79235BFD0DAD053A00F918F8 /* Code sense */;
+		executables = (
+			79235BF70DAD051C00F918F8 /* Skeleton */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					994,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 251936971;
+			PBXWorkspaceStateSaveDate = 251936971;
+		};
+		perUserProjectItems = {
+			79832CF70F044758000F58D6 /* PBXTextBookmark */ = 79832CF70F044758000F58D6 /* PBXTextBookmark */;
+			79832CFA0F044758000F58D6 /* PBXTextBookmark */ = 79832CFA0F044758000F58D6 /* PBXTextBookmark */;
+			79832CFB0F044758000F58D6 /* PBXTextBookmark */ = 79832CFB0F044758000F58D6 /* PBXTextBookmark */;
+			79832D0D0F04481B000F58D6 /* PBXTextBookmark */ = 79832D0D0F04481B000F58D6 /* PBXTextBookmark */;
+			79832D0F0F04481B000F58D6 /* PBXTextBookmark */ = 79832D0F0F04481B000F58D6 /* PBXTextBookmark */;
+			79832D100F04481B000F58D6 /* PBXTextBookmark */ = 79832D100F04481B000F58D6 /* PBXTextBookmark */;
+			79832D3E0F0497D7000F58D6 /* PBXTextBookmark */ = 79832D3E0F0497D7000F58D6 /* PBXTextBookmark */;
+			79832D440F0499C8000F58D6 /* PBXTextBookmark */ = 79832D440F0499C8000F58D6 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 79235BFC0DAD053A00F918F8 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	7914067B0DBAD8D100C9A379 /* Delegate.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {577, 1022}}";
+			sepNavSelRange = "{226, 0}";
+			sepNavVisRange = "{0, 283}";
+			sepNavWindowFrame = "{{84, 122}, {1161, 688}}";
+		};
+	};
+	79235BF70DAD051C00F918F8 /* Skeleton */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Skeleton;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	79235BFC0DAD053A00F918F8 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryName = "Oolong Engine 2";
+		};
+	};
+	79235BFD0DAD053A00F918F8 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	79235D4F0DAD2BEA00F918F8 /* Application.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1470, 10052}}";
+			sepNavSelRange = "{1976, 0}";
+			sepNavVisRange = "{1570, 967}";
+			sepNavWindowFrame = "{{616, 161}, {783, 668}}";
+		};
+	};
+	79317BF10EDBBFA400247E3D /* Matrix.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1470, 4508}}";
+			sepNavSelRange = "{3405, 22}";
+			sepNavVisRange = "{3078, 452}";
+		};
+	};
+	79832CF70F044758000F58D6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 79832CF80F044758000F58D6 /* Particle.h */;
+		name = "Particle.h: 97";
+		rLen = 0;
+		rLoc = 2951;
+		rType = 0;
+		vrLen = 719;
+		vrLoc = 0;
+	};
+	79832CF80F044758000F58D6 /* Particle.h */ = {
+		isa = PBXFileReference;
+		name = Particle.h;
+		path = "/Users/wolf/Desktop/Oolong Engine2/Examples/Renderer/Ported PowerVR Examples/06 Particle System/Particle.h";
+		sourceTree = "<absolute>";
+	};
+	79832CFA0F044758000F58D6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 79235D4F0DAD2BEA00F918F8 /* Application.mm */;
+		name = "Application.mm: 83";
+		rLen = 44;
+		rLoc = 2732;
+		rType = 0;
+		vrLen = 600;
+		vrLoc = 2410;
+	};
+	79832CFB0F044758000F58D6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 79832CFC0F044758000F58D6 /* Particle.h */;
+		name = "Particle.h: 97";
+		rLen = 0;
+		rLoc = 2951;
+		rType = 0;
+		vrLen = 719;
+		vrLoc = 0;
+	};
+	79832CFC0F044758000F58D6 /* Particle.h */ = {
+		isa = PBXFileReference;
+		name = Particle.h;
+		path = "/Users/wolf/Desktop/Oolong Engine2/Examples/Renderer/Ported PowerVR Examples/06 Particle System/Particle.h";
+		sourceTree = "<absolute>";
+	};
+	79832D0D0F04481B000F58D6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 79317BF10EDBBFA400247E3D /* Matrix.h */;
+		name = "Matrix.h: 149";
+		rLen = 22;
+		rLoc = 3405;
+		rType = 0;
+		vrLen = 452;
+		vrLoc = 3078;
+	};
+	79832D0F0F04481B000F58D6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 79235D4F0DAD2BEA00F918F8 /* Application.mm */;
+		name = "Application.mm: 343";
+		rLen = 64;
+		rLoc = 9910;
+		rType = 0;
+		vrLen = 1023;
+		vrLoc = 9409;
+	};
+	79832D100F04481B000F58D6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 79317BF10EDBBFA400247E3D /* Matrix.h */;
+		name = "Matrix.h: 149";
+		rLen = 22;
+		rLoc = 3405;
+		rType = 0;
+		vrLen = 452;
+		vrLoc = 3078;
+	};
+	79832D3E0F0497D7000F58D6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "error: 'fRot2' was not declared in this scope";
+		fRef = 79235D4F0DAD2BEA00F918F8 /* Application.mm */;
+		rLen = 1;
+		rLoc = 342;
+		rType = 1;
+	};
+	79832D440F0499C8000F58D6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 79235D4F0DAD2BEA00F918F8 /* Application.mm */;
+		name = "Application.mm: 52";
+		rLen = 0;
+		rLoc = 1976;
+		rType = 0;
+		vrLen = 967;
+		vrLoc = 1570;
+	};
+}

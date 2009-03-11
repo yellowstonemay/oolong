@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/Gimpact
+END
+gim_clip_polygon.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/Gimpact/gim_clip_polygon.h
+END
+btGImpactQuantizedBvh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/Gimpact/btGImpactQuantizedBvh.cpp
+END
+btGImpactMassUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/Gimpact/btGImpactMassUtil.h
+END
+btGImpactCollisionAlgorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/Gimpact/btGImpactCollisionAlgorithm.h
+END
+gim_box_collision.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/Gimpact/gim_box_collision.h
+END
+gim_box_set.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/Gimpact/gim_box_set.h
+END
+gim_tri_collision.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/Gimpact/gim_tri_collision.cpp
+END
+gim_memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/Gimpact/gim_memory.h
+END
+gim_geom_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/Gimpact/gim_geom_types.h
+END
+btContactProcessing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/Gimpact/btContactProcessing.cpp
+END
+btTriangleShapeEx.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/Gimpact/btTriangleShapeEx.h
+END
+btGImpactBvh.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/Gimpact/btGImpactBvh.h
+END
+btQuantization.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/Gimpact/btQuantization.h
+END
+gim_linear_math.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/Gimpact/gim_linear_math.h
+END
+gim_hash_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/Gimpact/gim_hash_table.h
+END
+gim_bitset.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/Gimpact/gim_bitset.h
+END
+gim_contact.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/Gimpact/gim_contact.h
+END
+btGImpactCollisionAlgorithm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/Gimpact/btGImpactCollisionAlgorithm.cpp
+END
+btBoxCollision.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/Gimpact/btBoxCollision.h
+END
+gim_box_set.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/Gimpact/gim_box_set.cpp
+END
+btGImpactShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/Gimpact/btGImpactShape.h
+END
+gim_basic_geometry_operations.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/Gimpact/gim_basic_geometry_operations.h
+END
+btGenericPoolAllocator.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/Gimpact/btGenericPoolAllocator.h
+END
+btGImpactQuantizedBvh.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/Gimpact/btGImpactQuantizedBvh.h
+END
+gim_memory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/Gimpact/gim_memory.cpp
+END
+btTriangleShapeEx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/Gimpact/btTriangleShapeEx.cpp
+END
+gim_tri_collision.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/Gimpact/gim_tri_collision.h
+END
+btGImpactBvh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/Gimpact/btGImpactBvh.cpp
+END
+gim_array.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/Gimpact/gim_array.h
+END
+gim_radixsort.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/Gimpact/gim_radixsort.h
+END
+btContactProcessing.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/Gimpact/btContactProcessing.h
+END
+gim_contact.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/Gimpact/gim_contact.cpp
+END
+btClipPolygon.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/Gimpact/btClipPolygon.h
+END
+gim_math.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/130/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/Gimpact/gim_math.h
+END
+btGeometryOperations.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/Gimpact/btGeometryOperations.h
+END
+btGImpactShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/Gimpact/btGImpactShape.cpp
+END
+gim_geometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/Gimpact/gim_geometry.h
+END
+btGenericPoolAllocator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/91/trunk/Oolong%20Engine2/Bullet/src/BulletCollision/Gimpact/btGenericPoolAllocator.cpp
+END
